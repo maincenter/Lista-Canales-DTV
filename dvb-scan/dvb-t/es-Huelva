@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Huelva
 
-[Canal 31: Telecinco, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 31: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 32: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 32: TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3, Radio Exterior RNE, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 562000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 35: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Vaughan Radio, esRadio]
+[Canal 35: GOL, DMAX, Disney Channel, Paramount Channel, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 586000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 40: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
+[Canal 40: Atreseries HD, BeMad TV HD, RealMadrid TV]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 626000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 41: Antena 3, Antena 3 HD, laSexta, laSexta HD, Nova]
+[Canal 41: laSexta, laSexta HD, Neox, Nova]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 634000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 48: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 48: Boing, Energy, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 690000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 50: Canal Luz, El Sembrador]
+[Canal 50: Huelva TV, Canal Luz, El, CNH]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 706000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 51: La 1, La 1 HD, La 2, 24h, Clan, Radio 5]
+[Canal 51: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 714000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 58: Canal Sur, Canal Sur 2, Canal Sur HD, BOM, Canal Sur Radio, Flamenco Radio, Canal Fiesta Radio, Radio Andalucía Información]
+[Canal 58: Canal Sur, Canal Sur 2, Canal Sur HD, Andalucía TV, BOM, Canal Sur Radio, Flamenco Radio, Canal Fiesta Radio, Radio Andalucía Información]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 770000000
 	BANDWIDTH_HZ = 8000000

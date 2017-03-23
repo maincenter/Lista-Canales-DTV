@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Almería
 
 [Canal 34: Interalmería TV, Tubienstar Astrocanal, 8TV, Canal 28]
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 38: Boing, Energy, Mega, 13TV (Definitivo), Europa FM, Melodía FM, Cope]
+[Canal 38: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Cope]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 610000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 44: Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 44: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 658000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 57: La 1, La 1 HD, La 2, 24h, Radio Nacional, Radio 5]
+[Canal 57: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 762000000
 	BANDWIDTH_HZ = 8000000

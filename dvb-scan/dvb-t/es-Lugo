@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Lugo
 
-[Canal 26: Boing, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía, Cope]
+[Canal 26: Boing, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 46: Telelugo, Localia]
+[Canal 46: Telelugo, Localia, Cadena Local]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 674000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 47: La 1, La 1 HD, La 2, 24h, Radio Nacional, Radio 5]
+[Canal 47: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 58: Telecinco, Telecinco HD, Cuatro, FDF, Divinity]
+[Canal 58: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 770000000
 	BANDWIDTH_HZ = 8000000

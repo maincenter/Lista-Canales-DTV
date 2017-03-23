@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Barcelona
 
 [Canal 23: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 26: BTV, teleb-Badalona, TV L'Hospitalet, BTV ràdio, Ràdio Ciutat Badalona, Ràdio Hospitalet]
+[Canal 26: betevé, teleb-Badalona, TV L'Hospitalet, betevé 91.0, Ràdio Ciutat Badalona, Ràdio Hospitalet]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 34: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 34: Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 578000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 44: TV3, 3/24, Super3 / 33, Esport 3, IB3 Global, CatRadio, CatInfo, CatMusic, iCat.cat]
+[Canal 44: TV3, 3/24, Super3 / 33, Esport 3, IB3 Global, CatRadio, CatInfo, iCat.cat]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 658000000
 	BANDWIDTH_HZ = 8000000
@@ -121,7 +121,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 48: 25 TV, Radio Cooltura]
+[Canal 48: El Punt Avui, 25 TV, Radio Cooltura]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 690000000
 	BANDWIDTH_HZ = 8000000

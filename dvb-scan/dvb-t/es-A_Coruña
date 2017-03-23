@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - A Coruña
 
-[Canal 22: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 22: La 1, La 1, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000
 	BANDWIDTH_HZ = 8000000
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 25: TVG, G2, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega, Radio Voz]
+[Canal 25: TVG, G2, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 28: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 28: Telecinco, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 530000000
 	BANDWIDTH_HZ = 8000000

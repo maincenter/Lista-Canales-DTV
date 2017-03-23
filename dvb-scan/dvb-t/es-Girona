@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Girona
 
-[Canal 29: Boing, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 29: Boing, Energy, Mega, 13TV (Definitivo), Europa FM, Melodía FM, Cope]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 538000000
 	BANDWIDTH_HZ = 8000000
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 32: Antena 3, Antena 3 HD, laSexta HD, Neox, Nova]
+[Canal 32: Antena 3 HD, laSexta, laSexta HD, Neox]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 562000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 35: Telecinco, Telecinco HD, Cuatro, Cuatro HD, Divinity]
+[Canal 35: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 586000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 38: GOL, DMAX, Disney Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 38: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 610000000
 	BANDWIDTH_HZ = 8000000

@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Jaén
 
 [Canal 26: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 39: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 39: TDP, TDP HD, TEN, Radio Clásica HQ, Radio 3 HQ, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 42: Canal Sur, Canal Sur 2, Canal Sur HD, Andalucía TV, BOM, Canal Sur Radio, Flamenco Radio, Canal Fiesta Radio, Radio Andalucía Información]
+[Canal 42: Canal Sur, Canal Sur 2, Canal Sur HD, BOM, Canal Sur Radio, Flamenco Radio, Canal Fiesta Radio, Radio Andalucía Información]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 642000000
 	BANDWIDTH_HZ = 8000000

@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Lleida
 
 [Canal 25: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 38: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Melodía FM, Cope]
+[Canal 38: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 610000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 47: GOL, DMAX, Disney, Paramount Channel, Cadena 100, Radio María, Vaughan Radio, esRadio]
+[Canal 47: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 49: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5, Ràdio 4]
+[Canal 49: La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5, Ràdio 4]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 698000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 50: 7 TV Segrià, El Punt Avui, Lleida TV, Tot TV, SER Radio Lleida, Segre Èxits FM, Pròxima FM]
+[Canal 50: 7 TV Segrià, El Punt Avui, Lleida TV, Tot TV, Segre Èxits FM, Pròxima FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 706000000
 	BANDWIDTH_HZ = 8000000
@@ -109,7 +109,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 58: TV3, 3/24, Super3 / 33, IB3 Global, CatRadio, CatInfo, CatMusic, iCat.cat]
+[Canal 58: TV3, 3/24, Super3 / 33, Esport 3, CatRadio, CatInfo, CatMusic, iCat.cat]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 770000000
 	BANDWIDTH_HZ = 8000000

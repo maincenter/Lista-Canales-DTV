@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Albacete
 
 [Canal 24: Boing, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía, Cope]
@@ -51,7 +51,7 @@
 
 [Canal 47: CNC, Vision 6, ABTeve]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = CNC000000
+	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 50: Antena 3, laSexta, laSexta HD, Neox, Nova]
+[Canal 50: Antena 3, Antena 3 HD, laSexta, laSexta HD, Neox, Nova]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 706000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 53: Telecinco, Telecinco HD, Cuatro, FDF, Divinity]
+[Canal 53: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 730000000
 	BANDWIDTH_HZ = 8000000

@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Guadalajara
 
 [Canal 25: CNC, TV Guadalajara, Popular TV]
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 31: Telecinco, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 31: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 37: GOL, DMAX, Paramount Channel, Cadena 100, Radio María, Vaughan Radio, esRadio]
+[Canal 37: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 602000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 47: Antena 3, Antena 3 HD, laSexta, laSexta HD, Neox]
+[Canal 47: Antena 3, Antena 3 HD, laSexta, laSexta HD, Neox, Nova]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 56: CMM TV HD, La Regional, Popular TV C-LM]
+[Canal 56: CMM TV, CMM TV HD, La Regional, Popular TV C-LM, CMM Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 754000000
 	BANDWIDTH_HZ = 8000000

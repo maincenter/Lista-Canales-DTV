@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 20/02/2017.
+# Channels and frequencies in use at 23/03/2017.
 # España - Madrid
 
-[Canal 22: Atreseries HD, RealMadrid TV HD]
+[Canal 22: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000
 	BANDWIDTH_HZ = 8000000
