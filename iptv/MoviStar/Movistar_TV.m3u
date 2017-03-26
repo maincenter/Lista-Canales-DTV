@@ -1,405 +1,405 @@
-#EXTM3U name="Movistar TV"
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [000] Movistar+
-rtp://@239.0.0.77:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [000] Movistar+ HD
-rtp://@239.0.5.185:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [001] TVE 1
-rtp://@239.0.0.76:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [001] TVE 1 HD
-rtp://@239.0.0.185:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [002] TVE 2
-rtp://@239.0.0.2:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [003] Antena 3
-rtp://@239.0.0.3:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [003] Antena 3 HD
-rtp://@239.0.0.186:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [004] Cuatro
-rtp://@239.0.0.4:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [004] Cuatro HD
-rtp://@239.0.0.177:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [005] Telecinco
-rtp://@239.0.0.5:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [005] Telecinco HD
-rtp://@239.0.0.176:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [006] La Sexta
-rtp://@239.0.0.58:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [006] La Sexta HD
-rtp://@239.0.0.187:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [007] #0
-rtp://@239.0.0.108:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [007] #0 HD
-rtp://@239.0.5.187:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] 7 Region de Murcia
-rtp://@239.0.0.87:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] Aragon TV
-rtp://@239.0.0.88:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] Canal Sur
-rtp://@239.0.0.49:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] Castilla y Leon 7
-rtp://@239.0.0.109:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] CMT
-rtp://@239.0.0.55:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] ETB 1
-rtp://@239.0.0.35:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] Extremadura TV
-rtp://@239.0.0.73:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] IB3
-rtp://@239.0.0.56:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] Telemadrid
-rtp://@239.0.0.25:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] TV Canaria
-rtp://@239.0.0.54:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] TV Galicia
-rtp://@239.0.0.53:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] TV Mediterraneo
-rtp://@239.0.3.34:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] TV Principado de Asturias
-rtp://@239.0.0.86:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] TV3
-rtp://@239.0.0.23:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [008] TV3 HD
-rtp://@239.0.5.186:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [009] 8 TV
-rtp://@239.0.0.82:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [009] Canal Sur 2
-rtp://@239.0.0.50:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [009] ETB 2
-rtp://@239.0.0.36:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [009] La Otra
-rtp://@239.0.0.26:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [010] Series
-rtp://@239.0.3.32:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [010] Series HD
-rtp://@239.0.0.184:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [011] Movistar Series
-rtp://@239.0.5.4:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [011] Movistar Series HD
-rtp://@239.0.5.250:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [012] Movistar Series Xtra
-rtp://@239.0.3.20:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [012] Movistar Series Xtra HD
-rtp://@239.0.5.83:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [013] FOX
-rtp://@239.0.0.74:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [013] FOX HD
-rtp://@239.0.9.134:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [014] AXN
-rtp://@239.0.0.14:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [014] AXN HD
-rtp://@239.0.9.131:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [015] TNT
-rtp://@239.0.0.44:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [015] TNT HD
-rtp://@239.0.5.87:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [016] Comedy Central
-rtp://@239.0.0.68:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [016] Comedy Central HD
-rtp://@239.0.0.174:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [017] Calle 13
-rtp://@239.0.0.13:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [017] Calle 13 HD
-rtp://@239.0.5.74:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [018] Cosmo
-rtp://@239.0.0.15:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [018] Cosmo HD
-rtp://@239.0.5.71:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [019] AMC
-rtp://@239.0.0.8:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [019] AMC HD
-rtp://@239.0.9.132:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [020] FOX Life
-rtp://@239.0.0.112:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [020] FOX Life HD
-rtp://@239.0.5.86:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [021] AXN White
-rtp://@239.0.0.62:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [021] AXN White HD
-rtp://@239.0.5.79:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [022] SyFy
-rtp://@239.0.0.111:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [022] SyFy HD
-rtp://@239.0.5.75:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [023] Non Stop People
-rtp://@239.0.0.212:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [023] Non Stop People HD
-rtp://@239.0.5.170:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [024] MTV
-rtp://@239.0.0.211:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [025] FDF
-rtp://@239.0.0.84:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [026] Neox
-rtp://@239.0.0.107:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [027] Atreseries
-rtp://@239.0.3.29:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [027] Atreseries HD
-rtp://@239.0.0.181:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [030] Cine
-rtp://@239.0.3.30:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [030] Cine HD
-rtp://@239.0.0.178:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [031] Movistar Estrenos
-rtp://@239.0.3.40:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [031] Movistar Estrenos HD
-rtp://@239.0.5.111:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [032] Movistar Xtra
-rtp://@239.0.3.41:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [032] Movistar Xtra HD
-rtp://@239.0.5.112:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [033] Movistar Accion
-rtp://@239.0.3.42:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [033] Movistar Accion HD
-rtp://@239.0.5.113:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [034] Movistar Comedia
-rtp://@239.0.3.43:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [034] Movistar Comedia HD
-rtp://@239.0.5.114:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [035] Movistar DCine
-rtp://@239.0.3.44:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [035] Movistar DCine HD
-rtp://@239.0.5.115:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [036] DCine Espanol
-rtp://@239.0.3.45:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [037] TCM
-rtp://@239.0.6.5:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [037] TCM HD
-rtp://@239.0.5.89:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [038] Hollywood
-rtp://@239.0.0.16:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [038] Hollywood HD
-rtp://@239.0.5.76:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [039] Sundance
-rtp://@239.0.0.102:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [039] Sundance HD
-rtp://@239.0.5.72:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [040] Paramount
-rtp://@239.0.0.90:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [041] 13 TV
-rtp://@239.0.0.91:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [042] Ten
-rtp://@239.0.0.34:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [044] Deportes
-rtp://@239.0.3.33:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [044] Deportes HD
-rtp://@239.0.0.180:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [045] Movistar Futbol
-rtp://@239.0.6.8:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [045] Movistar Futbol HD
-rtp://@239.0.6.14:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [046] Movistar Partidazo
-rtp://@239.0.4.129:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [046] Movistar Partidazo HD
-rtp://@239.0.5.84:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [047] beIN La Liga
-rtp://@239.0.0.46:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [047] beIN La Liga HD
-rtp://@239.0.5.106:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [048] beIN La Liga 1
-rtp://@239.0.0.47:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [048] beIN La Liga 1 HD
-rtp://@239.0.5.179:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [049] beIN La Liga 2
-rtp://@239.0.0.67:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [049] beIN La Liga 2 HD
-rtp://@239.0.5.180:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [050] beIN SPORTS
-rtp://@239.0.3.100:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [050] beIN SPORTS HD
-rtp://@239.0.9.80:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [050] Futbol Replay
-rtp://@239.0.0.97:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [051] beIN MAX 1
-rtp://@239.0.6.7:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [051] beIN MAX 1 HD
-rtp://@239.0.5.177:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [052] beIN MAX 2
-rtp://@239.0.6.13:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [055] Movistar Deportes 1
-rtp://@239.0.4.193:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [055] Movistar Deportes 1 HD
-rtp://@239.0.5.248:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [056] Movistar Deportes 2
-rtp://@239.0.5.5:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [056] Movistar Deportes 2 HD
-rtp://@239.0.5.245:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [057] Movistar F1
-rtp://@239.0.0.210:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [057] Movistar F1 HD
-rtp://@239.0.5.246:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [058] Movistar MotoGP
-rtp://@239.0.3.38:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [058] Movistar MotoGP HD
-rtp://@239.0.5.107:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [059] Movistar Golf
-rtp://@239.0.5.2:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [059] Movistar Golf HD
-rtp://@239.0.5.249:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [060] EuroSport
-rtp://@239.0.0.18:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [060] EuroSport HD New
-rtp://@239.0.9.144:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [060] EuroSport HD Old
-rtp://@239.0.9.135:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [061] EuroSport 2
-rtp://@239.0.0.37:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [061] EuroSport 2 HD
-rtp://@239.0.5.105:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [063] Teledeporte
-rtp://@239.0.0.79:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [063] Teledeporte HD
-rtp://@239.0.0.188:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [066] Iberalia
-rtp://@239.0.5.6:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [068] Multideporte 1
-rtp://@239.0.7.1:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [070] National Geographic
-rtp://@239.0.0.103:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [070] National Geographic HD
-rtp://@239.0.5.78:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [071] Nat Geo Wild
-rtp://@239.0.0.89:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [071] Nat Geo Wild HD
-rtp://@239.0.9.136:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [072] Historia
-rtp://@239.0.0.19:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [073] Discovery Channel
-rtp://@239.0.0.21:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [073] Discovery Channel HD
-rtp://@239.0.5.77:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [074] Odisea
-rtp://@239.0.0.22:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [074] Odisea HD
-rtp://@239.0.5.82:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [075] A&E
-rtp://@239.0.0.38:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [076] Viajar
-rtp://@239.0.0.20:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [076] Viajar HD
-rtp://@239.0.5.73:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [077] Discovery MAX
-rtp://@239.0.0.32:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [079] CCTV-E
-rtp://@239.0.0.65:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [080] Cocina
-rtp://@239.0.0.27:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [081] Decasa
-rtp://@239.0.0.71:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [082] Crimen e Investigacion
-rtp://@239.0.0.57:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [083] Divinity
-rtp://@239.0.0.48:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [084] Nova
-rtp://@239.0.0.106:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [085] MEGA
-rtp://@239.0.3.31:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [086] Energy
-rtp://@239.0.0.59:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [087] Garage TV
-rtp://@239.0.0.99:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [090] Baby TV
-rtp://@239.0.0.113:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [091] Disney Junior
-rtp://@239.0.0.10:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [092] Canal Panda
-rtp://@239.0.0.117:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [093] Nick Jr
-rtp://@239.0.0.115:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [094] Nickelodeon
-rtp://@239.0.0.69:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [095] Disney XD
-rtp://@239.0.0.11:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [096] Disney Channel
-rtp://@239.0.0.64:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [096] Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [097] Boing
-rtp://@239.0.0.66:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [098] Clan TVE
-rtp://@239.0.0.80:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [103] 40 TV
-rtp://@239.0.0.12:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [104] Sol Musica
-rtp://@239.0.0.39:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [105] VH1
-rtp://@239.0.0.75:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [112] Canal 24 Horas
-rtp://@239.0.0.78:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [113] BBC world
-rtp://@239.0.0.30:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [114] CNN International
-rtp://@239.0.0.40:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [115] Fox News
-rtp://@239.0.7.65:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [116] Euronews
-rtp://@239.0.0.28:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [117] Al Jazeera
-rtp://@239.0.7.66:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [118] France 24
-rtp://@239.0.7.67:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [119] Russia Today
-rtp://@239.0.7.68:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [120] CNBC Europe
-rtp://@239.0.7.69:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [122] TV5 Monde Europe
-rtp://@239.0.0.31:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [123] Bloomberg
-rtp://@239.0.0.29:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [124] Intereconomia TV
-rtp://@239.0.0.63:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [128] I24 News
-rtp://@239.0.0.220:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [129] CNC World
-rtp://@239.0.0.221:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [133] Canal Orbe 21
-rtp://@239.0.0.45:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [150] Andalucia TV
-rtp://@239.0.0.1:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [151] Galicia TV Europa
-rtp://@239.0.3.37:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [153] TV3CAT
-rtp://@239.0.3.36:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [154] ETB Sat
-rtp://@239.0.0.60:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [155] Aragon TV Int
-rtp://@239.0.0.81:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [156] Super 3/33
-rtp://@239.0.0.24:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [157] Esport3
-rtp://@239.0.0.51:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [158] 3/24
-rtp://@239.0.0.61:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [159] Xarxa Televisions
-rtp://@239.0.0.9:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [176] Multifutbol 1
-rtp://@239.0.0.92:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [177] Multifutbol 2
-rtp://@239.0.0.93:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [178] Multifutbol 3
-rtp://@239.0.0.94:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [179] Multifutbol 4
-rtp://@239.0.0.95:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [180] Multifutbol 5
-rtp://@239.0.0.96:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [181] beIN La Liga 3
-rtp://@239.0.0.70:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [181] beIN La Liga 3 HD
-rtp://@239.0.5.181:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [182] beIN La Liga 4
-rtp://@239.0.0.72:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [186] beIN MAX 3
-rtp://@239.0.0.216:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [187] beIN MAX 4
-rtp://@239.0.0.217:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [192] Multideporte 2
-rtp://@239.0.7.2:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [193] Multideporte 3
-rtp://@239.0.7.3:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [194] Multideporte 4
-rtp://@239.0.7.4:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [195] Multideporte 5
-rtp://@239.0.7.5:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [196] Multideporte 6
-rtp://@239.0.7.132:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [197] Multideporte 7
-rtp://@239.0.7.133:8208
-#EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal [200] La Tienda en Casa
-rtp://@239.0.0.98:8208
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="000",Movistar+
+rtp://239.0.0.77:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="000",Movistar+ HD
+rtp://239.0.5.185:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="001",TVE 1
+rtp://239.0.0.76:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="001",TVE 1 HD
+rtp://239.0.0.185:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="002",TVE 2
+rtp://239.0.0.2:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="003",Antena 3
+rtp://239.0.0.3:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="003",Antena 3 HD
+rtp://239.0.0.186:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="004",Cuatro
+rtp://239.0.0.4:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="004",Cuatro HD
+rtp://239.0.0.177:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="005",Telecinco
+rtp://239.0.0.5:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="005",Telecinco HD
+rtp://239.0.0.176:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="006",La Sexta
+rtp://239.0.0.58:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="006",La Sexta HD
+rtp://239.0.0.187:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="007",#0
+rtp://239.0.0.108:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="007",#0 HD
+rtp://239.0.5.187:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",7 Region de Murcia
+rtp://239.0.0.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",Aragon TV
+rtp://239.0.0.88:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",Canal Sur
+rtp://239.0.0.49:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",Castilla y Leon 7
+rtp://239.0.0.109:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",CMT
+rtp://239.0.0.55:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",ETB 1
+rtp://239.0.0.35:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",Extremadura TV
+rtp://239.0.0.73:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",IB3
+rtp://239.0.0.56:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",Telemadrid
+rtp://239.0.0.25:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",TV Canaria
+rtp://239.0.0.54:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",TV Galicia
+rtp://239.0.0.53:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",TV Mediterraneo
+rtp://239.0.3.34:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",TV Principado de Asturias
+rtp://239.0.0.86:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",TV3
+rtp://239.0.0.23:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="008",TV3 HD
+rtp://239.0.5.186:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="009",8 TV
+rtp://239.0.0.82:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="009",Canal Sur 2
+rtp://239.0.0.50:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="009",ETB 2
+rtp://239.0.0.36:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="009",La Otra
+rtp://239.0.0.26:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="010",Series
+rtp://239.0.3.32:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="010",Series HD
+rtp://239.0.0.184:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="011",Movistar Series
+rtp://239.0.5.4:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="011",Movistar Series HD
+rtp://239.0.5.250:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="012",Movistar Series Xtra
+rtp://239.0.3.20:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="012",Movistar Series Xtra HD
+rtp://239.0.5.83:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="013",FOX
+rtp://239.0.0.74:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="013",FOX HD
+rtp://239.0.9.134:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="014",AXN
+rtp://239.0.0.14:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="014",AXN HD
+rtp://239.0.9.131:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="015",TNT
+rtp://239.0.0.44:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="015",TNT HD
+rtp://239.0.5.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="016",Comedy Central
+rtp://239.0.0.68:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="016",Comedy Central HD
+rtp://239.0.0.174:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="017",Calle 13
+rtp://239.0.0.13:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="017",Calle 13 HD
+rtp://239.0.5.74:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="018",Cosmo
+rtp://239.0.0.15:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="018",Cosmo HD
+rtp://239.0.5.71:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="019",AMC
+rtp://239.0.0.8:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="019",AMC HD
+rtp://239.0.9.132:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="020",FOX Life
+rtp://239.0.0.112:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="020",FOX Life HD
+rtp://239.0.5.86:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="021",AXN White
+rtp://239.0.0.62:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="021",AXN White HD
+rtp://239.0.5.79:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="022",SyFy
+rtp://239.0.0.111:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="022",SyFy HD
+rtp://239.0.5.75:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="023",Non Stop People
+rtp://239.0.0.212:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="023",Non Stop People HD
+rtp://239.0.5.170:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="024",MTV
+rtp://239.0.0.211:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="025",FDF
+rtp://239.0.0.84:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="026",Neox
+rtp://239.0.0.107:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="027",Atreseries
+rtp://239.0.3.29:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="027",Atreseries HD
+rtp://239.0.0.181:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="030",Cine
+rtp://239.0.3.30:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="030",Cine HD
+rtp://239.0.0.178:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="031",Movistar Estrenos
+rtp://239.0.3.40:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="031",Movistar Estrenos HD
+rtp://239.0.5.111:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="032",Movistar Xtra
+rtp://239.0.3.41:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="032",Movistar Xtra HD
+rtp://239.0.5.112:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="033",Movistar Accion
+rtp://239.0.3.42:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="033",Movistar Accion HD
+rtp://239.0.5.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="034",Movistar Comedia
+rtp://239.0.3.43:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="034",Movistar Comedia HD
+rtp://239.0.5.114:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="035",Movistar DCine
+rtp://239.0.3.44:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="035",Movistar DCine HD
+rtp://239.0.5.115:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="036",DCine Espanol
+rtp://239.0.3.45:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="037",TCM
+rtp://239.0.6.5:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="037",TCM HD
+rtp://239.0.5.89:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="038",Hollywood
+rtp://239.0.0.16:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="038",Hollywood HD
+rtp://239.0.5.76:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="039",Sundance
+rtp://239.0.0.102:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="039",Sundance HD
+rtp://239.0.5.72:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="040",Paramount
+rtp://239.0.0.90:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="041",13 TV
+rtp://239.0.0.91:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="042",Ten
+rtp://239.0.0.34:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="044",Deportes
+rtp://239.0.3.33:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="044",Deportes HD
+rtp://239.0.0.180:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="045",Movistar Futbol
+rtp://239.0.6.8:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="045",Movistar Futbol HD
+rtp://239.0.6.14:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="046",Movistar Partidazo
+rtp://239.0.4.129:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="046",Movistar Partidazo HD
+rtp://239.0.5.84:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="047",beIN La Liga
+rtp://239.0.0.46:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="047",beIN La Liga HD
+rtp://239.0.5.106:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="048",beIN La Liga 1
+rtp://239.0.0.47:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="048",beIN La Liga 1 HD
+rtp://239.0.5.179:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="049",beIN La Liga 2
+rtp://239.0.0.67:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="049",beIN La Liga 2 HD
+rtp://239.0.5.180:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="050",beIN SPORTS
+rtp://239.0.3.100:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="050",beIN SPORTS HD
+rtp://239.0.9.80:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="050",Futbol Replay
+rtp://239.0.0.97:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="051",beIN MAX 1
+rtp://239.0.6.7:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="051",beIN MAX 1 HD
+rtp://239.0.5.177:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="052",beIN MAX 2
+rtp://239.0.6.13:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="055",Movistar Deportes 1
+rtp://239.0.4.193:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="055",Movistar Deportes 1 HD
+rtp://239.0.5.248:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="056",Movistar Deportes 2
+rtp://239.0.5.5:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="056",Movistar Deportes 2 HD
+rtp://239.0.5.245:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="057",Movistar F1
+rtp://239.0.0.210:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="057",Movistar F1 HD
+rtp://239.0.5.246:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="058",Movistar MotoGP
+rtp://239.0.3.38:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="058",Movistar MotoGP HD
+rtp://239.0.5.107:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="059",Movistar Golf
+rtp://239.0.5.2:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="059",Movistar Golf HD
+rtp://239.0.5.249:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="060",EuroSport
+rtp://239.0.0.18:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="060",EuroSport HD New
+rtp://239.0.9.144:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="060",EuroSport HD Old
+rtp://239.0.9.135:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="061",EuroSport 2
+rtp://239.0.0.37:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="061",EuroSport 2 HD
+rtp://239.0.5.105:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="063",Teledeporte
+rtp://239.0.0.79:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="063",Teledeporte HD
+rtp://239.0.0.188:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="066",Iberalia
+rtp://239.0.5.6:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="068",Multideporte 1
+rtp://239.0.7.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="070",National Geographic
+rtp://239.0.0.103:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="070",National Geographic HD
+rtp://239.0.5.78:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="071",Nat Geo Wild
+rtp://239.0.0.89:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="071",Nat Geo Wild HD
+rtp://239.0.9.136:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="072",Historia
+rtp://239.0.0.19:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="073",Discovery Channel
+rtp://239.0.0.21:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="073",Discovery Channel HD
+rtp://239.0.5.77:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="074",Odisea
+rtp://239.0.0.22:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="074",Odisea HD
+rtp://239.0.5.82:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="075",A&E
+rtp://239.0.0.38:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="076",Viajar
+rtp://239.0.0.20:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="076",Viajar HD
+rtp://239.0.5.73:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="077",Discovery MAX
+rtp://239.0.0.32:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="079",CCTV-E
+rtp://239.0.0.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="080",Cocina
+rtp://239.0.0.27:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="081",Decasa
+rtp://239.0.0.71:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="082",Crimen e Investigacion
+rtp://239.0.0.57:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="083",Divinity
+rtp://239.0.0.48:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="084",Nova
+rtp://239.0.0.106:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="085",MEGA
+rtp://239.0.3.31:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="086",Energy
+rtp://239.0.0.59:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="087",Garage TV
+rtp://239.0.0.99:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="090",Baby TV
+rtp://239.0.0.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="091",Disney Junior
+rtp://239.0.0.10:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="092",Canal Panda
+rtp://239.0.0.117:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="093",Nick Jr
+rtp://239.0.0.115:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="094",Nickelodeon
+rtp://239.0.0.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="095",Disney XD
+rtp://239.0.0.11:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="096",Disney Channel
+rtp://239.0.0.64:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="096",Disney Channel HD
+rtp://239.0.0.173:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="097",Boing
+rtp://239.0.0.66:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="098",Clan TVE
+rtp://239.0.0.80:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="103",40 TV
+rtp://239.0.0.12:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="104",Sol Musica
+rtp://239.0.0.39:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="105",VH1
+rtp://239.0.0.75:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="112",Canal 24 Horas
+rtp://239.0.0.78:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="113",BBC world
+rtp://239.0.0.30:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="114",CNN International
+rtp://239.0.0.40:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="115",Fox News
+rtp://239.0.7.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="116",Euronews
+rtp://239.0.0.28:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="117",Al Jazeera
+rtp://239.0.7.66:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="118",France 24
+rtp://239.0.7.67:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="119",Russia Today
+rtp://239.0.7.68:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="120",CNBC Europe
+rtp://239.0.7.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="122",TV5 Monde Europe
+rtp://239.0.0.31:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="123",Bloomberg
+rtp://239.0.0.29:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="124",Intereconomia TV
+rtp://239.0.0.63:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="128",I24 News
+rtp://239.0.0.220:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="129",CNC World
+rtp://239.0.0.221:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="133",Canal Orbe 21
+rtp://239.0.0.45:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="150",Andalucia TV
+rtp://239.0.0.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="151",Galicia TV Europa
+rtp://239.0.3.37:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="153",TV3CAT
+rtp://239.0.3.36:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="154",ETB Sat
+rtp://239.0.0.60:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="155",Aragon TV Int
+rtp://239.0.0.81:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="156",Super 3/33
+rtp://239.0.0.24:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="157",Esport3
+rtp://239.0.0.51:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="158",3/24
+rtp://239.0.0.61:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="159",Xarxa Televisions
+rtp://239.0.0.9:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="176",Multifutbol 1
+rtp://239.0.0.92:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="177",Multifutbol 2
+rtp://239.0.0.93:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="178",Multifutbol 3
+rtp://239.0.0.94:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="179",Multifutbol 4
+rtp://239.0.0.95:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="180",Multifutbol 5
+rtp://239.0.0.96:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="181",beIN La Liga 3
+rtp://239.0.0.70:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="181",beIN La Liga 3 HD
+rtp://239.0.5.181:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="182",beIN La Liga 4
+rtp://239.0.0.72:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="186",beIN MAX 3
+rtp://239.0.0.216:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="187",beIN MAX 4
+rtp://239.0.0.217:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="192",Multideporte 2
+rtp://239.0.7.2:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="193",Multideporte 3
+rtp://239.0.7.3:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="194",Multideporte 4
+rtp://239.0.7.4:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="195",Multideporte 5
+rtp://239.0.7.5:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="196",Multideporte 6
+rtp://239.0.7.132:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="197",Multideporte 7
+rtp://239.0.7.133:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="200",La Tienda en Casa
+rtp://239.0.0.98:8208
