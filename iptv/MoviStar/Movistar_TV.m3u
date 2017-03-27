@@ -127,11 +127,11 @@ rtp://239.0.5.170:8208
 rtp://239.0.0.211:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="025",FDF
 rtp://239.0.0.84:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="026",Neox
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="026",neox
 rtp://239.0.0.107:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="027",Atreseries
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="027",atreseries
 rtp://239.0.3.29:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="027",Atreseries HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="027",atreseries HD
 rtp://239.0.0.181:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="030",Cine
 rtp://239.0.3.30:8208
@@ -175,7 +175,7 @@ rtp://239.0.5.72:8208
 rtp://239.0.0.90:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="041",13 TV
 rtp://239.0.0.91:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="042",Ten
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="042",TEN
 rtp://239.0.0.34:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="044",Deportes
 rtp://239.0.3.33:8208
@@ -275,7 +275,7 @@ rtp://239.0.0.38:8208
 rtp://239.0.0.20:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="076",Viajar HD
 rtp://239.0.5.73:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="077",Discovery MAX
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="077",DMAX
 rtp://239.0.0.32:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="079",CCTV-E
 rtp://239.0.0.65:8208
@@ -287,9 +287,9 @@ rtp://239.0.0.71:8208
 rtp://239.0.0.57:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="083",Divinity
 rtp://239.0.0.48:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="084",Nova
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="084",nova
 rtp://239.0.0.106:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="085",MEGA
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="085",mega
 rtp://239.0.3.31:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="086",Energy
 rtp://239.0.0.59:8208
