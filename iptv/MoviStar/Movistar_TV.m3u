@@ -133,6 +133,12 @@ rtp://239.0.0.107:8208
 rtp://239.0.3.29:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="027",atreseries HD
 rtp://239.0.0.181:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="028",GOLTV
+rtp://239.0.0.7:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="028",GOLTV HD
+rtp://239.0.5.189:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="029",BEMAD HD
+rtp://239.0.0.17:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="030",Cine
 rtp://239.0.3.30:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="030",Cine HD
@@ -177,6 +183,8 @@ rtp://239.0.0.90:8208
 rtp://239.0.0.91:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="042",TEN
 rtp://239.0.0.34:8208
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="043",DKISS
+rtp://239.0.0.6:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="044",Deportes
 rtp://239.0.3.33:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="044",Deportes HD
@@ -222,7 +230,7 @@ rtp://239.0.5.5:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="056",Movistar Deportes 2 HD
 rtp://239.0.5.245:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="057",Movistar F1
-rtp://239.0.0.210:8208
+rtp://239.0.1.230:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="057",Movistar F1 HD
 rtp://239.0.5.246:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="058",Movistar MotoGP
