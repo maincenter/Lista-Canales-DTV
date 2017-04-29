@@ -133,9 +133,9 @@ rtp://239.0.0.107:8208
 rtp://239.0.3.29:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="027",atreseries HD
 rtp://239.0.0.181:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="028",GOLTV
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="028",GOL
 rtp://239.0.0.7:8208
-#EXTINF:-1 tvh-epg="disable" tvh-chnum="028",GOLTV HD
+#EXTINF:-1 tvh-epg="disable" tvh-chnum="028",GOL HD
 rtp://239.0.5.189:8208
 #EXTINF:-1 tvh-epg="disable" tvh-chnum="029",BEMAD HD
 rtp://239.0.0.17:8208
