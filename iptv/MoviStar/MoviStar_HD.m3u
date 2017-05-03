@@ -7,7 +7,7 @@ rtp://@239.0.0.185:8208
 rtp://@239.0.0.186:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="004",Cuatro HD
 rtp://@239.0.0.177:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="005",Tele 5 HD
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="005",TeleCinco HD
 rtp://@239.0.0.176:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="006",laSexta HD
 rtp://@239.0.0.187:8208
