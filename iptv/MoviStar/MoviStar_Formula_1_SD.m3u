@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="Formula 1" tvh-chnum="057",Movistar F1
+rtp://@239.0.1.246:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="Formula 1" tvh-chnum="220",Multicamara 1 F1
+rtp://@239.0.1.236:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="Formula 1" tvh-chnum="221",Multi 1 F1
+rtp://@239.0.1.230:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="Formula 1" tvh-chnum="222",Multi 2 F1
+rtp://@239.0.1.231:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="Formula 1" tvh-chnum="223",Multi 3 F1
+rtp://@239.0.1.232:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="Formula 1" tvh-chnum="224",Multi 4 F1
+rtp://@239.0.1.233:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="Formula 1" tvh-chnum="225",Multi 5 F1
+rtp://@239.0.1.234:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="Formula 1" tvh-chnum="226",Multi 6 F1
+rtp://@239.0.1.235:8208
