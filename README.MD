@@ -69,4 +69,3 @@ https://github.com/maincenter/Logotipos-TV
 +Estos canales los actualizaré tan pronto como pueda y en teoría cada hora TVHeadend comprobará dicha lista, desconozco si realiza una resintonización, pero si no es así, te aconsejo que visites este sección para saber cuando fué la última actualización, la fecha aparece en los ficheros, en la parte derecha de la lista, si la fecha a cambiado, aconsejo que resintoniceis manual mente pulsando en el botón Force Scan marcando previamente la lista que deseémos actualizar.
 
 *INFO: Este contenido está dirijido para los usuarios de TVHeadend, versión 4.1 y Superiores. (no probado en versiones anteriores, por lo que se desconoce si funciona o no.)
-
