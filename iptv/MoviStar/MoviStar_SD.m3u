@@ -9,9 +9,9 @@ rtp://@239.0.0.2:8208
 rtp://@239.0.0.3:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="SD" tvh-chnum="004",Cuatro
 rtp://@239.0.0.4:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="SD" tvh-chnum="005",TeleCinco
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD" tvh-chnum="005",Telecinco
 rtp://@239.0.0.5:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="SD" tvh-chnum="006",LaSexta
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD" tvh-chnum="006",laSexta
 rtp://@239.0.0.58:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="SD" tvh-chnum="007",#0
 rtp://@239.0.0.108:8208

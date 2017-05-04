@@ -7,7 +7,7 @@ rtp://@239.0.0.185:8208
 rtp://@239.0.0.186:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="004",Cuatro HD
 rtp://@239.0.0.177:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="005",TeleCinco HD
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="005",Telecinco HD
 rtp://@239.0.0.176:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="006",laSexta HD
 rtp://@239.0.0.187:8208
@@ -35,7 +35,7 @@ rtp://@239.0.9.132:8208
 rtp://@239.0.5.86:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="021",AXN White HD
 rtp://@239.0.5.79:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="022",Sy-Fy HD
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="022",SyFy HD
 rtp://@239.0.5.75:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="023",Non Stop People HD
 rtp://@239.0.5.170:8208
