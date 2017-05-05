@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Teruel
 
-[Canal 25: Atreseries HD, BeMad TV HD, RealMadrid TV]
+[Canal 25: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000
 	BANDWIDTH_HZ = 8000000
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 26: Aragón TV, Aragón 2 HD, Aragón Radio, Aragón Radio 2, TEA FM]
+[Canal 26: Aragón TV, Aragón TV HD, Aragón Radio, Aragón Radio 2, TEA FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 30: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 30: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 546000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 32: GOL, DMAX, Disney Channel, Paramount, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 32: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 562000000
 	BANDWIDTH_HZ = 8000000
@@ -49,9 +49,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 34: Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 34: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 578000000
+	FREQUENCY = Boing0000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 39: La 1, La 2, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 39: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 41: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 41: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 634000000
 	BANDWIDTH_HZ = 8000000

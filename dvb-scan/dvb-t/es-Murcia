@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Murcia
 
-[Canal 26: TBN, La Opinión TV, GTM TV]
+[Canal 26: TBN, La Opinión TV]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 29: 7RM, 7RM HD, TV Murciana, BOM, Popular TV, Onda Regional, OR Música]
+[Canal 29: 7RM HD, TV Murciana, BOM, Popular TV, Onda Regional, OR Música]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 538000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 38: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 38: La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 610000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 42: DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 42: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 642000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 44: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 44: Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 658000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 55: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 55: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000

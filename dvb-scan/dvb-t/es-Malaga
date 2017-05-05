@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Málaga
 
-[Canal 33: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 33: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 570000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 39: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 39: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 49: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 49: Telecinco, Telecinco HD, Cuatro, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 698000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 51: Torrevisión, Ondaluz, PTV, Mediterráneo TV]
+[Canal 51: Torrevisión, Ondaluz, PTV]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 714000000
 	BANDWIDTH_HZ = 8000000

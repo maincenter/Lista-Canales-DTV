@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Toledo
 
-[Canal 23: CMM TV, CMM TV HD, La Regional, Popular TV C-LM, CMM Radio]
+[Canal 23: CMM TV, CMM TV HD, La Regional, Popular TV C-LM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 490000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 27: CNC, Canal Diocesano, Teletoledo]
+[Canal 27: CNC, Teletoledo]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 522000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 31: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 31: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 47: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 47: GOL, DMAX, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000

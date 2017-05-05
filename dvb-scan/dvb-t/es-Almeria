@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Almería
 
 [Canal 34: Interalmería TV, Tubienstar Astrocanal, 8TV, Canal 28]
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 38: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Cope]
+[Canal 38: Boing, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 610000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 44: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 44: Telecinco, Telecinco HD, Cuatro, Cuatro HD, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 658000000
 	BANDWIDTH_HZ = 8000000
@@ -61,9 +61,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 47: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 47: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 682000000
+	FREQUENCY = TDP000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 57: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 57: La 1, La 1 HD, La, 24h, Clan, Radio Nacional]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 762000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 59: Canal Sur, Canal Sur 2, Canal Sur HD, Andalucía TV, BOM, Canal Sur Radio, Flamenco Radio, Canal Fiesta Radio, Radio Andalucía Información]
+[Canal 59: Canal Sur, Canal Sur 2, Andalucía TV, BOM, Canal Sur Radio, Canal Fiesta Radio, Radio Andalucía Información]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 778000000
 	BANDWIDTH_HZ = 8000000

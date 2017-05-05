@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Ceuta
 
-[Canal 25: Atreseries HD, RealMadrid TV HD]
+[Canal 25: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 37: Radio TV de Ceuta, Ceuta TV, Inv. El Bornal, Canal Sur, Radio TV de Ceuta]
+[Canal 37: Radio TV de Ceuta, Ceuta TV, Inv. El Bornal, Radio TV de Ceuta]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 602000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 52: La 1, La 1, La 2, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 52: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 722000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 53: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 53: GOL, DMAX, Disney Channel, Paramount Channel, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 730000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 55: TDP, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 55: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000

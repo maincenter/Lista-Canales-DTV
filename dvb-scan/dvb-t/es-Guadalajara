@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Guadalajara
 
 [Canal 25: CNC, TV Guadalajara, Popular TV]
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 37: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 37: GOL, DMAX, Disney Channel, Paramount Channel, Cadena, Radio María, Radio Marca, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 602000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 43: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 43: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 650000000
 	BANDWIDTH_HZ = 8000000

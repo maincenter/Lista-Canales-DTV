@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Valladolid
 
-[Canal 25: CyL7, CyL8, Vive Radio, Castilla y León esRadio]
+[Canal 25: CyL7, CyL8, CyL7 HD, Vive Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000
 	BANDWIDTH_HZ = 8000000
@@ -15,7 +15,7 @@
 
 [Canal 26: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
 	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 514000000
+	FREQUENCY = Boing0000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 43: TDP, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 43: TDP, TDP HD, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 650000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 57: La 1, La 1 HD, 24h, Clan, Radio Nacional]
+[Canal 57: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 762000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 58: Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 58: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 770000000
 	BANDWIDTH_HZ = 8000000

@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Ourense
 
 [Canal 35: Boing, Energy, Mega, 13TV (Definitivo), Onda Cero, Europa FM, Melodía FM, Cope]
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 42: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 42: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 642000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 47: La 1, La 2, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 47: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 50: TVG, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música, Radio Voz]
+[Canal 50: TVG, G2, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música, Radio Voz]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 706000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 53: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio, Radio Marca, Vaughan Radio, esRadio]
+[Canal 53: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 730000000
 	BANDWIDTH_HZ = 8000000

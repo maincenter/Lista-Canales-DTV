@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Granada
 
 [Canal 22: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 29: GOL, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 29: GOL, DMAX, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 538000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 43: TG7, Granada 9 TV, 8TV, Ondaluz, TG7 Radio]
+[Canal 43: TG7, Granada 9 TV, 8TV, Ondaluz]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 650000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 52: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 52: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 722000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 53: Antena 3, Antena 3 HD, laSexta, laSexta HD, Neox, Nova]
+[Canal 53: Antena 3, laSexta, laSexta HD, Neox, Nova]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 730000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 56: Telecinco, Telecinco HD, Cuatro, FDF, Divinity]
+[Canal 56: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 754000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 57: La 1, La 1 HD, La 2, Clan, Radio Nacional, Radio 5]
+[Canal 57: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 762000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 58: Canal Sur, Canal Sur HD, Andalucía TV, BOM, Canal Sur, Flamenco Radio, Canal Fiesta Radio, Radio Andalucía Información]
+[Canal 58: Canal Sur, Canal Sur 2, Canal Sur HD, Andalucía TV, BOM, Canal Sur Radio, Flamenco Radio, Canal Fiesta Radio, Radio Andalucía Información]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 770000000
 	BANDWIDTH_HZ = 8000000

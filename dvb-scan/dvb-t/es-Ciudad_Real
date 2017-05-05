@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Ciudad Real
 
-[Canal 21: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 21: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 474000000
 	BANDWIDTH_HZ = 8000000
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 25: Telecinco, Telecinco HD, Cuatro, FDF, Divinity]
+[Canal 25: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 59: La 1, La 2, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 59: La 1, La 1 HD, La 2, 24h, Clan, Radio Nacional, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 778000000
 	BANDWIDTH_HZ = 8000000

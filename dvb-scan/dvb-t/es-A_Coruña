@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - A Coruña
 
-[Canal 22: La 1, La 1, La 2, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 22: La 1, La 1 HD, La 2, 24h, Clan, Radio, Radio 5]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000
 	BANDWIDTH_HZ = 8000000
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 25: TVG, G2, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música]
+[Canal 25: TVG, G2, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música, Radio Voz]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 506000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 28: Telecinco, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 28: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 530000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 31: Localia, La Opinión de La Coruña, Editorial La Capital]
+[Canal 31: La Opinión de La Coruña, Editorial La Capital]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 35: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 35: GOL, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 586000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 42: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 42: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 642000000
 	BANDWIDTH_HZ = 8000000

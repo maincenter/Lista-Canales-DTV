@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 23/03/2017.
+# Channels and frequencies in use at 05/05/2017.
 # España - Barcelona
 
 [Canal 23: Atreseries HD, BeMad TV HD, RealMadrid TV HD]
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 34: Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 34: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 578000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 41: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, Kiss FM, Hit FM]
+[Canal 41: TDP, TDP HD, DKISS, TEN, Radio Clásica HQ, Radio 3 HQ, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 634000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 44: TV3, 3/24, Super3 / 33, Esport 3, IB3 Global, CatRadio, CatInfo, iCat.cat]
+[Canal 44: TV3, 3/24, Super3 / 33, Esport 3, IB3 Global, CatRadio, CatInfo, CatMusic, iCat.cat]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 658000000
 	BANDWIDTH_HZ = 8000000
@@ -109,7 +109,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 47: GOL, DMAX, Disney Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 47: GOL, DMAX, Disney Channel, Paramount Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000
