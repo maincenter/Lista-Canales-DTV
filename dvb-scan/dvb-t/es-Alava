@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 01/01/2019.
+# Channels and frequencies in use at 20/07/2019.
 # España - Álava
 
-[Canal 22: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio 5 RNE]
+[Canal 22: La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000
 	BANDWIDTH_HZ = 8000000
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 27: Boing, Energy, TRECE, Onda Cero, Europa FM, Cope]
+[Canal 27: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Rock FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 522000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 36: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio Marca, Vaughan Radio]
+[Canal 36: DMAX, Disney Channel, Paramount Network, Cadena 100, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 43: tdp, tdp HD, Clan HD, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, SER, Los40, Kiss FM, Hit FM]
+[Canal 43: tdp, tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 650000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 45: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF]
+[Canal 45: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 666000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 58: ETB1, ETB2, ETB3, ETB1 HD, ETB2 HD, Euskadi Irratia, Radio Euskadi, Gaztea, EITB Musika, Radio Vitoria]
+[Canal 58: ETB1, ETB2, ETB3, ETB1 HD, ETB2 HD, Euskadi Irratia, Radio Euskadi, Gaztea, EITB Musika]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 770000000
 	BANDWIDTH_HZ = 8000000

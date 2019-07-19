@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 01/01/2019.
+# Channels and frequencies in use at 20/07/2019.
 # España - Murcia
 
 [Canal 26: TBN, La Opinión TV, GTM TV]
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 29: 7RM, 7RM HD, TV Murciana, BOM, Popular TV, Onda Regional, OR Música]
+[Canal 29: 7RM, 7RM HD, TV Murciana, BOM Cine, Popular TV, Onda Regional, OR Música]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 538000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 36: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 36: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 42: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 42: GOL, DMAX, Paramount Network, Cadena 100, Radio María, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 642000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 44: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 44: Telecinco, Telecinco, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 658000000
 	BANDWIDTH_HZ = 8000000

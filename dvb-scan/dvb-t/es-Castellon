@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 01/01/2019.
+# Channels and frequencies in use at 20/07/2019.
 # España - Castellón
 
-[Canal 22: tdp, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
+[Canal 22: tdp, tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 482000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 46: GOL, DMAX, Disney Channel, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 46: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 674000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 49: Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 49: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 698000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 52: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 52: Boing, Energy, Mega, TRECE, Europa FM, Melodía FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 722000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 60: À Punt, À Punt HD, 8 Mediterráneo, Bom, À Punt FM]
+[Canal 60: À Punt, À Punt HD, 8 Mediterráneo, BOM Cine, À Punt FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 786000000
 	BANDWIDTH_HZ = 8000000

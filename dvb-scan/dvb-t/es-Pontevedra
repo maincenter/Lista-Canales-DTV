@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 01/01/2019.
+# Channels and frequencies in use at 20/07/2019.
 # España - Pontevedra
 
 [Canal 29: 7 Canal Rias Baixas]
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 31: tdp, tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM]
+[Canal 31: tdp, tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 43: Telecinco, Telecinco HD, Cuatro, FDF, Divinity]
+[Canal 43: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 650000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 45: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 45: Boing, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 666000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 46: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 46: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 674000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 54: La 1, La 1 HD, La 2, La 2 HD, Clan, Radio Nacional, Radio 5 RNE]
+[Canal 54: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 738000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 58: TVG, G2, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música, Radio Voz]
+[Canal 58: TVG, G2, TVG HD, TVG2 HD, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música, Radio Voz]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 770000000
 	BANDWIDTH_HZ = 8000000
