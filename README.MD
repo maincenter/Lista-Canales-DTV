@@ -1,6 +1,7 @@
 CANALES DVB-T (TDT) territorio español para TVHEadend.
 ======================================================
 * INFO: -Esta documentación se basa en la distribución Debian “wheezy” 7.x que tiene soporte hasta 2018.
+** Probado y funcionando en Debian 9.
 
 + En mi caso tengo mi TVHeadend instalado en un Servidor con Open Media Vault, incluyo estos datos para que lo tengas en cuenta, con ello no quiero decir que no funcione en versiones superiores de Debian.
 
