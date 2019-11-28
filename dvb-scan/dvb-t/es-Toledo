@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 01/01/2019.
+# Channels and frequencies in use at 20/07/2019.
 # España - Toledo
 
-[Canal 23: CMM TV HD, CMM Radio]
+[Canal 23: CMM TV, CMM TV HD, CMM Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 490000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 29: Boing, Energy, Mega, Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 29: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 538000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 31: tdp, tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
+[Canal 31: tdp, tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 554000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 40: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5]
+[Canal 40: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 626000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 47: GOL, DMAX, Disney Channel, Paramount Network, Radio María, Radio Marca, esRadio]
+[Canal 47: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 682000000
 	BANDWIDTH_HZ = 8000000

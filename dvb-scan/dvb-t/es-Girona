@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 01/01/2019.
+# Channels and frequencies in use at 20/07/2019.
 # España - Girona
 
-[Canal 29: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 29: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 538000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 35: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 35: Telecinco, Telecinco HD, Cuatro, Cuatro HD, Divinity]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 586000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 36: 8TV, Barça TV, RAC105, RAC1, RAC105]
+[Canal 36: 8TV, Barça TV, Barça TV HD, RAC105, RAC105]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 594000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 38: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 38: GOL, DMAX, Disney Channel, Radio María, Radio Marca]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 610000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 39: Banyoles Televisió, El Punt Avui]
+[Canal 39: Banyoles Televisió, TV Girona, El Punt Avui]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 49: tdp, tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
+[Canal 49: tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 698000000
 	BANDWIDTH_HZ = 8000000

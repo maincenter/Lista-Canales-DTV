@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 01/01/2019.
+# Channels and frequencies in use at 20/07/2019.
 # España - Madrid
 
 [Canal 22: Atreseries HD, BeMad tv HD, Realmadrid TV HD]
@@ -13,7 +13,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 26: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope]
+[Canal 26: Boing, Energy, TRECE, Onda Cero, Europa FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 514000000
 	BANDWIDTH_HZ = 8000000
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 33: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio, esRadio]
+[Canal 33: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 570000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 39: 8Madrid, Trece Madrid, Hit TV, Intereconomía TV, Business TV, CGTN-Español, Canal Galería, MegaStarFM, Kiss FM, Hit FM]
+[Canal 39: 8Madrid, Trece Madrid, Hit TV, Intereconomía TV, Business TV, CGTN-Español, Canal Galería, Cope Más, MegaStarFM, Kiss FM, Hit FM]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 618000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 41: tdp, tdp HD, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM]
+[Canal 41: tdp, tdp HD, Clan HD, DKISS, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, SER, Los40, Dial, Kiss FM, Hit FM, esRadio]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 634000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 50: 8Madrid, Libertad Digital TV, TBN, La Tienda en Casa, Botopro, BuenaCompra]
+[Canal 50: 8Madrid, Libertad Digital TV, TBN, Botopro, BuenaCompra, Déjate TV]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 706000000
 	BANDWIDTH_HZ = 8000000
@@ -97,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 55: Telemadrid, La Otra, Telemadrid HD, Bom, Onda Madrid]
+[Canal 55: Telemadrid, La Otra, Telemadrid HD, BOM Cine, Onda Madrid]
 	DELIVERY_SYSTEM = DVBT
 	FREQUENCY = 746000000
 	BANDWIDTH_HZ = 8000000
