@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Autonómicos" tvh-chnum="009",TV3 HD *
+rtp://@239.0.5.186:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Autonómicos" tvh-chnum="009",Canal Sur 1 HD *
+rtp://@239.0.5.192:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Autonómicos" tvh-chnum="009",ETB 1 HD *
+rtp://@239.0.5.178:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Autonómicos" tvh-chnum="010",ETB 2 HD *
+rtp://@239.0.5.179:8208

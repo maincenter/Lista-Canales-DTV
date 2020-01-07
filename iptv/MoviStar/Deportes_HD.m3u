@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Deportes" tvh-chnum="053",Movistar Deportes HD {DRM}
+rtp://@239.0.5.248:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Deportes" tvh-chnum="054",Movistar Deportes 1 HD
+rtp://@239.0.6.34:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Deportes" tvh-chnum="055",Movistar Deportes 2 HD
+rtp://@239.0.6.35:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Deportes" tvh-chnum="056",Movistar Deportes 3 HD
+rtp://@239.0.6.36:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Deportes" tvh-chnum="059",Movistar Golf HD
+rtp://@239.0.5.249:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Deportes" tvh-chnum="192",Movistar Deportes 4 HD
+rtp://@239.0.6.37:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Deportes" tvh-chnum="193",Movistar Deportes 5 HD
+rtp://@239.0.6.38:8208

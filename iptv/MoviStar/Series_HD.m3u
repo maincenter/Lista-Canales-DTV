@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Series" tvh-chnum="011",Movistar Series HD
+rtp://@239.0.5.250:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Series" tvh-chnum="012",Movistar Seriesmanía HD
+rtp://@239.0.5.83:8208

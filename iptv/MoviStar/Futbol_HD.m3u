@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="046",M. LaLiga HD {DRM}
+rtp://@239.0.5.195:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="047",M. LaLiga 1 HD
+rtp://@239.0.0.194:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="048",M. LaLiga 2 HD
+rtp://@239.0.6.13:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="049",M. LaLiga 3 HD
+rtp://@239.0.0.196:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="050",M.Liga de Campeones HD {DRM}
+rtp://@239.0.9.80:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="051",M.Liga de Campeones 1 HD
+rtp://@239.0.9.81:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="052",M.Liga de Campeones 2 HD
+rtp://@239.0.9.82:8208
+
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="176",M. LaLiga 4 HD
+rtp://@239.0.0.197:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="177",M. LaLiga 5 HD
+rtp://@239.0.0.198:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="178",M. LaLiga 6 HD
+rtp://@239.0.0.195:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="179",M. LaLiga 7 HD
+rtp://@239.0.0.199:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="186",M.Liga de Campeones 3 HD
+rtp://@239.0.9.83:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Fútbol" tvh-chnum="187",M.Liga de Campeones 4 HD
+rtp://@239.0.9.84:8208

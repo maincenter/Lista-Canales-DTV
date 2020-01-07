@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Cine" tvh-chnum="030",Movistar Estrenos HD
+rtp://@239.0.5.111:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Cine" tvh-chnum="031",Movistar CineDoc&Roll HD {DRM}
+rtp://@239.0.5.112:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Cine" tvh-chnum="032",Movistar Disney HD
+rtp://@239.0.5.108:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Cine" tvh-chnum="033",Movistar Acción HD
+rtp://@239.0.5.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Cine" tvh-chnum="034",Movistar Comedia HD
+rtp://@239.0.5.114:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Cine" tvh-chnum="035",Movistar Drama HD
+rtp://@239.0.5.115:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Cine" tvh-chnum="036",Movistar Cine Español HD
+rtp://@239.0.5.109:8208

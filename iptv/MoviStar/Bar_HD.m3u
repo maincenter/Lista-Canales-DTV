@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Bar" tvh-chnum="060",#Vamos Bar HD
+rtp://@239.0.6.14:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Bar" tvh-chnum="145",LaLiga TV Bar HD {DRM}
+rtp://@239.0.5.196:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD,Bar" tvh-chnum="146",LaLiga TV Bar 1 HD
+rtp://@239.0.9.92:8208

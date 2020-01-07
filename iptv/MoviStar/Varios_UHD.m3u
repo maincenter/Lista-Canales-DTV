@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="UHD,Fútbol" tvh-chnum="440",M. La Liga UHD {DRM}
+rtp://@239.0.5.205:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="UHD,Fútbol" tvh-chnum="441",Movistar L.Campeones UHD {DRM}
+rtp://@239.0.5.211:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="UHD,Motor" tvh-chnum="442",Movistar F1 UHD {DRM}
+rtp://@239.0.5.206:8208
