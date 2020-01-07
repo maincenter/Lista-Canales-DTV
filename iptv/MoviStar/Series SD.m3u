@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Series" tvh-chnum="011",Movistar Series
+rtp://@239.0.5.4:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Series" tvh-chnum="012",Movistar Seriesmanía
+rtp://@239.0.3.20:8208
