@@ -1,4 +1,4 @@
-CANALES DVB-T (TDT) territorio español para TVHEadend.
+CANALES DVB-T (TDT) territorio español para TVHeadend.
 ======================================================
 * INFO: -Esta documentación se basa en la distribución Debian “wheezy” 7.x que tiene soporte hasta 2018.
 ** Probado y funcionando en Debian 9.
