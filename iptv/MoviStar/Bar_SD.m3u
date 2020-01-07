@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Bar" tvh-chnum="060",#Vamos Bar
+rtp://@239.0.6.8:8208
+
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Bar" tvh-chnum="145",LaLiga TV Bar {DRM}
+rtp://@239.0.1.191:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Bar" tvh-chnum="146",LaLiga TV Bar 1
+rtp://@239.0.3.115:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Bar" tvh-chnum="147",LaLiga TV Bar 2
+rtp://@239.0.3.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Bar" tvh-chnum="148",LaLiga TV Bar 3
+rtp://@239.0.3.112:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Bar" tvh-chnum="149",LaLiga TV Bar 4
+rtp://@239.0.3.114:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Bar" tvh-chnum="196",#Vamos Bar 1
+rtp://@239.0.0.124:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Bar" tvh-chnum="197",#Vamos Bar 2
+rtp://@239.0.0.123:8208

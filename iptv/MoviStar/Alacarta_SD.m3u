@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="065",Caza y Pesca
+rtp://@239.0.3.1:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="066",Iberalia
+rtp://@239.0.5.1:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="067",Toros TV
+rtp://@239.0.1.140:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="107",Mezzo
+rtp://@239.0.4.65:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="108",Mezzo Live
+rtp://@239.0.8.65:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="109",Stingray Classica
+rtp://@239.0.3.193:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="111",Playboy TV
+rtp://@239.0.5.3:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="134",Telefe Internacional
+rtp://@239.0.8.3:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="135",Canal Estrellas
+rtp://@239.0.8.193:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="137",TV Record
+rtp://@239.0.8.2:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="138",TV Chile Internacional
+rtp://@239.0.8.1:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="139",Nuestra Tele
+rtp://@239.0.7.131:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="141",Cubavision
+rtp://@239.0.8.67:8208
+#EXTINF:- tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="142",teleSUR
+rtp://@239.0.8.69:8208
