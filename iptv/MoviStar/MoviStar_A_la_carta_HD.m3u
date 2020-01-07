@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvh-epg="disable" tvh-tags="A la carta HD" tvh-chnum="065",Caza y Pesca HD
-rtp://@239.0.6.54:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="A la carta HD" tvh-chnum="066",Iberalia HD
-rtp://@239.0.5.188:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="A la carta HD" tvh-chnum="067",Toros TV HD
-rtp://@239.0.0.191:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="A la carta HD" tvh-chnum="109",Classica HD
-rtp://@239.0.9.137:8208
