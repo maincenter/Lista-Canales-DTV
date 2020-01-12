@@ -1,0 +1,339 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="000",Movistar+
+rtp://@239.0.0.77:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="001",La 1
+rtp://@239.0.0.76:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="002",La 2
+rtp://@239.0.0.2:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="003",Antena 3
+rtp://@239.0.0.3:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="004",Cuatro
+rtp://@239.0.0.4:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="005",Tele 5
+rtp://@239.0.0.5:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="006",La Sexta
+rtp://@239.0.0.58:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="007",#0
+rtp://@239.0.0.108:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="008",#Vamos
+rtp://@239.0.1.128:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="013",FOX
+rtp://@239.0.0.74:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="014",AXN
+rtp://@239.0.0.14:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="015",TNT
+rtp://@239.0.0.44:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="016",Comedy Central
+rtp://@239.0.0.68:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="017",Calle 13
+rtp://@239.0.0.13:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="018",COSMO
+rtp://@239.0.0.15:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="019",AMC
+rtp://@239.0.0.8:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="020",FOX life
+rtp://@239.0.0.43:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="021",AXN White
+rtp://@239.0.0.62:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="022",Syfy
+rtp://@239.0.0.111:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="024",MTV España
+rtp://@239.0.0.211:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="025",FDF
+rtp://@239.0.0.84:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="026",Neox
+rtp://@239.0.0.107:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="027",Atreseries
+rtp://@239.0.3.29:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="028",Energy
+rtp://@239.0.0.59:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="037",TCM
+rtp://@239.0.6.5:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="038",Hollywood
+rtp://@239.0.0.16:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="039",Sundance Channel
+rtp://@239.0.0.102:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="040",DARK
+rtp://@239.0.0.39:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="041",13 TV
+rtp://@239.0.0.91:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="042",Ten
+rtp://@239.0.0.34:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="043",Paramount Network
+rtp://@239.0.0.90:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="044",DEPORTES
+rtp://@239.0.3.33:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="045",#Vamos
+rtp://@239.0.1.128:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="058",UBEAT
+rtp://@239.0.0.33:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="061",Eurosport 1
+rtp://@239.0.0.18:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="062",Eurosport 2
+rtp://@239.0.0.37:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="063",GOL
+rtp://@239.0.0.7:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="064",Teledeporte
+rtp://@239.0.0.79:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="068",Real Madrid TV
+rtp://@239.0.0.83:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="069",Barça TV
+rtp://@239.0.0.93:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="070",National Geographic
+rtp://@239.0.0.103:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="071",NAT GEO Wild
+rtp://@239.0.0.89:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="072",Historia
+rtp://@239.0.0.19:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="073",Discovery Channel
+rtp://@239.0.0.21:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="074",ODISEA
+rtp://@239.0.0.22:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="075",BLAZE
+rtp://@239.0.0.38:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="076",Viajar
+rtp://@239.0.0.20:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="077",Discovery Max
+rtp://@239.0.0.32:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="078",Crimen + Investigación
+rtp://@239.0.0.57:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="079",CGTN Español
+rtp://@239.0.0.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="080",Cocina
+rtp://@239.0.0.27:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="081",Decasa
+rtp://@239.0.0.71:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="082",DKISS
+rtp://@239.0.0.6:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="083",Divinity
+rtp://@239.0.0.48:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="084",Nova
+rtp://@239.0.0.106:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="085",MEGA
+rtp://@239.0.3.31:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="086",BeMad
+rtp://@239.0.0.17:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="087",Garage TV
+rtp://@239.0.0.99:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="088",Canal Orbe 21
+rtp://@239.0.0.45:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="089",Fútbol Replay
+rtp://@239.0.0.97:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="090",Baby TV
+rtp://@239.0.0.113:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="091",Disney Junior
+rtp://@239.0.0.10:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="092",Canal Panda
+rtp://@239.0.0.117:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="093",Nick Jr
+rtp://@239.0.0.115:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="094",Nickelodeon
+rtp://@239.0.0.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="095",Disney XD
+rtp://@239.0.0.11:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="096",Disney Channel
+rtp://@239.0.0.64:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="097",Boing
+rtp://@239.0.0.66:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="098",Clan TVE
+rtp://@239.0.0.80:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="105",VH1
+rtp://@239.0.0.75:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="112",Canal 24 Horas
+rtp://@239.0.0.78:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="113",BBC world
+rtp://@239.0.0.30:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="114",CNNi
+rtp://@239.0.0.40:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="115",Fox News
+rtp://@239.0.7.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="116",Euronews
+rtp://@239.0.0.28:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="117",Al Jazeera
+rtp://@239.0.7.66:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="118",France 24
+rtp://@239.0.7.67:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="119",Russia Today
+rtp://@239.0.7.68:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="120",CNBC Europe
+rtp://@239.0.7.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="122",TV5 Monde Europe
+rtp://@239.0.0.31:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="123",Bloomberg
+rtp://@239.0.0.29:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="124",Intereconomía TV
+rtp://@239.0.0.63:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="125",Libertad Digital
+rtp://@239.0.0.85:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="129",CNC World
+rtp://@239.0.0.221:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="143",EWTN
+rtp://@239.0.0.72:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="150",Canal Sur Andalucía
+rtp://@239.0.0.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="151",Galicia TV Europa
+rtp://@239.0.3.37:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="152",Canal Extremadura SAT
+rtp://@239.0.0.52:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="153",TV3CAT
+rtp://@239.0.3.36:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="154",ETB Sat
+rtp://@239.0.0.60:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Familiar" tvh-chnum="155",Aragón TV Int
+rtp://@239.0.0.81:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",Telemadrid *
+rtp://@239.0.0.25:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="010",La Otra *
+rtp://@239.0.0.26:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",TV3 *
+rtp://@239.0.0.23:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="010",8tv *
+rtp://@239.0.0.82:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="156",Super 3/33 *
+rtp://@239.0.0.24:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="157",Esport3 *
+rtp://@239.0.0.51:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="158",3/24 *
+rtp://@239.0.0.61:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="160",betevé *
+rtp://@239.0.0.110:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",ETB 1 *
+rtp://@239.0.0.35:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="010",ETB 2 *
+rtp://@239.0.0.36:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="099",ETB 3 *
+rtp://@239.0.0.105:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",Canal Sur *
+rtp://@239.0.0.49:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="010",Andalucía Televisión *
+rtp://@239.0.0.50:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",TV Canaria *
+rtp://@239.0.0.54:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",Castilla La Mancha TV *
+rtp://@239.0.0.55:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",TV Galicia *
+rtp://@239.0.0.53:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",IB3 *
+rtp://@239.0.0.56:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",Aragón TV *
+rtp://@239.0.0.88:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",7 TV Región de Murcia *
+rtp://@239.0.0.87:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",TV Principado de Asturias *
+rtp://@239.0.0.86:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",Extremadura TV *
+rtp://@239.0.0.73:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",Castilla y León 7 *
+rtp://@239.0.0.109:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="009",À Punt *
+rtp://@239.0.3.32:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Autonómicos" tvh-chnum="010",La Ocho Mediterráneo *
+rtp://@239.0.3.34:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Cine" tvh-chnum="030",Movistar Estrenos
+rtp://@239.0.3.40:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Cine" tvh-chnum="031",Movistar CineDoc&Roll {DRM}
+rtp://@239.0.3.41:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Cine" tvh-chnum="032",Movistar Disney
+rtp://@239.0.0.239:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Cine" tvh-chnum="033",Movistar Acción
+rtp://@239.0.3.42:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Cine" tvh-chnum="034",Movistar Comedia
+rtp://@239.0.3.43:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Cine" tvh-chnum="035",Movistar Drama
+rtp://@239.0.3.44:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Cine" tvh-chnum="036",Movistar Cine Español
+rtp://@239.0.3.45:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="053",Movistar Deportes {DRM}
+rtp://@239.0.4.193:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="054",Movistar Deportes 1
+rtp://@239.0.7.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="055",Movistar Deportes 2
+rtp://@239.0.7.2:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="056",Movistar Deportes 3
+rtp://@239.0.7.3:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="059",Movistar Golf
+rtp://@239.0.5.2:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="192",Movistar Deportes 4
+rtp://@239.0.7.4:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="193",Movistar Deportes 5
+rtp://@239.0.7.5:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="194",Movistar Deportes 6
+rtp://@239.0.7.132:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="195",Movistar Deportes 7
+rtp://@239.0.7.133:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Deportes" tvh-chnum="199",Movistar Deportes 8
+rtp://@239.0.7.134:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="065",Caza y Pesca
+rtp://@239.0.3.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="066",Iberalia
+rtp://@239.0.5.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="067",Toros TV
+rtp://@239.0.1.140:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="107",Mezzo
+rtp://@239.0.4.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="108",Mezzo Live
+rtp://@239.0.8.65:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="109",Stingray Classica
+rtp://@239.0.3.193:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="111",Playboy TV
+rtp://@239.0.5.3:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="134",Telefe Internacional
+rtp://@239.0.8.3:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="135",Canal Estrellas
+rtp://@239.0.8.193:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="137",TV Record
+rtp://@239.0.8.2:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="138",TV Chile Internacional
+rtp://@239.0.8.1:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="139",Nuestra Tele
+rtp://@239.0.7.131:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="141",Cubavision
+rtp://@239.0.8.67:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,A la carta" tvh-chnum="142",teleSUR
+rtp://@239.0.8.69:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="046",M. LaLiga {DRM}
+rtp://@239.0.1.190:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="047",M. LaLiga 1
+rtp://@239.0.3.6:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="048",M. LaLiga 2
+rtp://@239.0.3.5:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="049",M. LaLiga 3
+rtp://@239.0.3.9:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="050",M.Liga de Campeones {DRM}
+rtp://@239.0.3.100:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="051",M.Liga de Campeones 1
+rtp://@239.0.3.101:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="052",M.Liga de Campeones 2
+rtp://@239.0.3.102:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="176",M. LaLiga 4
+rtp://@239.0.6.7:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="177",M. LaLiga 5
+rtp://@239.0.6.9:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="178",M. LaLiga 6
+rtp://@239.0.3.7:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="179",M. LaLiga 7
+rtp://@239.0.0.121:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="180",M. LaLiga 8
+rtp://@239.0.0.122:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="181",M. LaLiga 9
+rtp://@239.0.3.3:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="182",M. LaLiga 10
+rtp://@239.0.3.4:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="186",M.Liga de Campeones 3
+rtp://@239.0.3.103:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="187",M.Liga de Campeones 4
+rtp://@239.0.3.104:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="188",M.Liga de Campeones 5
+rtp://@239.0.3.105:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="189",M.Liga de Campeones 6
+rtp://@239.0.3.106:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="190",M.Liga de Campeones 7
+rtp://@239.0.3.107:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Fútbol" tvh-chnum="191",M.Liga de Campeones 8
+rtp://@239.0.3.108:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Motor" tvh-chnum="057",Movistar F1
+rtp://@239.0.1.246:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Series" tvh-chnum="011",Movistar Series
+rtp://@239.0.5.4:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="SD,Series" tvh-chnum="012",Movistar Seriesmanía
+rtp://@239.0.3.20:8208
