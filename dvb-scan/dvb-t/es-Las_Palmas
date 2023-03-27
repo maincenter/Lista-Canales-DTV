@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 27/12/2019.
+# Channels and frequencies in use at 16/05/2020.
 # España - Las Palmas
 
 [Canal 1: TV Canaria, TV Canaria HD, Canarias Radio, Radio ECCA]
@@ -61,7 +61,19 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 6: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
+[Canal 6: Localia, Nueve TV]
+	DELIVERY_SYSTEM = DVBT
+ 	FREQUENCY = 5700000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[Canal 7: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 5860000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 7: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
+[Canal 8: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 5940000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +97,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 8: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 9: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6100000000
 	BANDWIDTH_HZ = 8000000
@@ -97,33 +109,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 9: Gran Canaria TV, UDTV, Canal 4]
+[Canal 10: Gran Canaria TV, UDTV, Canal 4]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6580000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 10: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7060000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 11: Localia, Nueve TV]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7220000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE

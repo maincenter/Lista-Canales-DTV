@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 27/12/2019.
+# Channels and frequencies in use at 16/05/2020.
 # España - Cantabria
 
 [Canal 1: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
@@ -37,7 +37,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 4: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
+[Canal 4: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6260000000
 	BANDWIDTH_HZ = 8000000
@@ -99,19 +99,7 @@
 
 [Canal 9: Cantabria TV, Hit TV, Serv. TV Cántabros Info]
 	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7620000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 10: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7700000000
+ 	FREQUENCY = /font00000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE

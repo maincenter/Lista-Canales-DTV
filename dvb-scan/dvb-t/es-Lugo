@@ -1,7 +1,7 @@
-# Channels and frequencies in use at 27/12/2019.
+# Channels and frequencies in use at 16/05/2020.
 # España - Lugo
 
-[Canal 1: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
+[Canal 1: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 5140000000
 	BANDWIDTH_HZ = 8000000
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 3: TVG, G2, TVG HD, TVG2 HD, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música, Radio Voz]
+[Canal 3: TVG, G2, TVG HD, TVG2 HD, Radio Galega, Son Galicia Radio, Radio Galega Música]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 5540000000
 	BANDWIDTH_HZ = 8000000
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 6: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
+[Canal 6: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6340000000
 	BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 7: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
+[Canal 7: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6580000000
 	BANDWIDTH_HZ = 8000000
@@ -100,30 +100,6 @@
 [Canal 9: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6820000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 10: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7700000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 11: TVG, G2, TVG HD, TVG2 HD, V Televisión, Radio Galega, Son Galicia Radio, Radio Galega Música, Radio Voz]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7780000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE

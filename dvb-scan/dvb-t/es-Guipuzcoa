@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 27/12/2019.
+# Channels and frequencies in use at 16/05/2020.
 # España - Guipúzcoa
 
 [Canal 1: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
@@ -25,7 +25,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 3: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
+[Canal 3: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 5300000000
 	BANDWIDTH_HZ = 8000000
@@ -49,7 +49,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 5: Atreseries HD, BeMad tv HD, Realmadrid TV HD, TEN, SER, Los40, Dial]
+[Canal 5: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 5620000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 8: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
+[Canal 8: Atreseries HD, BeMad tv HD, Realmadrid TV HD, TEN, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6580000000
 	BANDWIDTH_HZ = 8000000
@@ -97,33 +97,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 9: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
+[Canal 9: ETB1, ETB2, ETB3, ETB4, ETB1 HD, ETB2 HD, Euskadi Irratia, Radio Euskadi, Gaztea, EITB Musika, EITB Kantak, Radio Vitoria]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6900000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 10: ETB1, ETB2, ETB3, ETB4, ETB1 HD, ETB2 HD, Euskadi Irratia, Radio Euskadi, Gaztea, EITB Musika, Radio Vitoria]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7060000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 11: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7380000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE

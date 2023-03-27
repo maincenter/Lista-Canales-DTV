@@ -1,4 +1,4 @@
-# Channels and frequencies in use at 27/12/2019.
+# Channels and frequencies in use at 16/05/2020.
 # España - Barcelona
 
 [Canal 1: Atreseries HD, BeMad tv HD, Realmadrid TV HD, TEN, SER, Los40, Dial]
@@ -61,7 +61,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 6: 8TV, Barça TV, Barça TV HD, RAC105, RAC1, RAC105]
+[Canal 6: 8TV, Barça TV, Barça TV HD, RAC105, BOM Cine , RAC1, RAC105]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 5700000000
 	BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 8: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
+[Canal 8: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6340000000
 	BANDWIDTH_HZ = 8000000
@@ -133,7 +133,7 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 12: El Punt Avui, 25 TV, Radio Cooltura]
+[Canal 12: Tevecat, 25 TV, Radio Cooltura]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6900000000
 	BANDWIDTH_HZ = 8000000

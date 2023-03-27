@@ -1,7 +1,19 @@
-# Channels and frequencies in use at 27/12/2019.
+# Channels and frequencies in use at 16/05/2020.
 # España - Ceuta
 
-[Canal 1: Atreseries HD, BeMad tv HD, Realmadrid TV HD, TEN, SER, Los40, Dial]
+[Canal 1: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
+	DELIVERY_SYSTEM = DVBT
+ 	FREQUENCY = 4740000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[Canal 2: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 5060000000
 	BANDWIDTH_HZ = 8000000
@@ -13,9 +25,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 2: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
+[Canal 3: Antena3, Antena3 HD, laSexta, laSexta HD, neox, nova]
 	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 5860000000
+ 	FREQUENCY = 5220000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -25,7 +37,31 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 3: Radio TV de Ceuta, Canal Sur, Radio TV de Ceuta]
+[Canal 4: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
+	DELIVERY_SYSTEM = DVBT
+ 	FREQUENCY = 5300000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[Canal 5: Atreseries HD, BeMad tv HD, Realmadrid TV HD, TEN, SER, Los40, Dial]
+	DELIVERY_SYSTEM = DVBT
+ 	FREQUENCY = 5620000000
+	BANDWIDTH_HZ = 8000000
+	CODE_RATE_HP = 2/3
+	CODE_RATE_LP = NONE
+	MODULATION = QAM/64
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/4
+	HIERARCHY = NONE
+	INVERSION = AUTO
+
+[Canal 6: Radio TV de Ceuta, Canal Sur, Radio TV de Ceuta]
 	DELIVERY_SYSTEM = DVBT
  	FREQUENCY = 6020000000
 	BANDWIDTH_HZ = 8000000
@@ -37,9 +73,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 4: Antena3, Antena3 HD, laSexta, laSexta HD, neox, nova]
+[Canal 7: Boing, Energy, Mega, TRECE, Onda Cero, Europa FM, Melodía FM, Cope, Rock FM]
 	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 6580000000
+ 	FREQUENCY = 6500000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
@@ -49,45 +85,9 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[Canal 5: Telecinco, Telecinco HD, Cuatro, Cuatro HD, FDF, Divinity]
+[Canal 8: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio, SER, Los40, Dial]
 	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 6980000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 6: La 1, La 1 HD, La 2, La 2 HD, 24h, Clan, Radio Nacional, Radio 5 RNE]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7220000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 7: GOL, DMAX, Disney Channel, Paramount Network, Cadena 100, Radio María, Radio Marca, Vaughan Radio]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7300000000
-	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
-	CODE_RATE_LP = NONE
-	MODULATION = QAM/64
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/4
-	HIERARCHY = NONE
-	INVERSION = AUTO
-
-[Canal 8: tdp, tdp HD, Clan, Clan HD, DKISS, TEN, Radio Clásica HQ RNE, Radio 3 HQ RNE, Radio Exterior RNE, Kiss FM, Hit FM, esRadio]
-	DELIVERY_SYSTEM = DVBT
- 	FREQUENCY = 7460000000
+ 	FREQUENCY = 6660000000
 	BANDWIDTH_HZ = 8000000
 	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
